@@ -1,0 +1,13 @@
+{
+  "url": {
+    "baseURL": "http://20.216.38.173:7031/",
+    "login": "auth/login",
+    "operators": "operators",
+    "getOperatorsStat": "operators/operators-summary",
+    "getOperatorImage": "operators/get-image"
+  },
+  "api": {
+    "api-key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOWQ4ZmQzNjBiN2I5MmNhMmFiY2I1ZSIsImtleSI6IiQyYiQxMCRLWVk2bFUzOWFvbWZZYVovT054Z1l1UXVjUGFaWS5DZ0RLY1Z5dExPaGN3MENpcDVjYVZFLiIsImlhdCI6MTY1NDQ5MzEzOX0.v09e3OthyFGx12LT_Kjn5GSJ6-hotuLLxEHN-hofov8",
+    "api-secret": "$2b$10$6iSfANxu2Uu4tcKIKqwXHeUrUuu6h.G5mGBKCjQbEiYc1SOmpQXnK"
+  }
+}
